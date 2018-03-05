@@ -4,12 +4,19 @@ Projektissa suunnittelen kuvitteelliselle älykkäitä jääkaappeja valmistaval
 
 -----
 
-#### Kurssi
+### Kurssi
 
 - Tietojärjestelmien suunnittelun perusteet
-  - kevät 2018
-  - Tampereen yliopisto 
+  - kevät 2018, Tampereen yliopisto
   - [Kurssin kuvaus](https://www10.uta.fi/opas/opintojakso.htm?id=30352&lang=fi&lvv=2017&uiLang=fi)
 
 -----
 
+### Sisältö
+
+- Harjoitustyön tehtävänanto
+- Valmis työni (pdf)
+- Esimerkkitietokannan luonti- ja tietojenlisäyslauseet
+- Esimerkkitietokantaan tehdyt kyselyt
+
+-----
