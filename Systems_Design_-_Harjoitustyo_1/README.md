@@ -1,6 +1,6 @@
-## Tietojärjestelmän suunnittelu, harjoitustyö 2018
-
 <img align="right" title="Project example" src="readme/display2min.png">
+
+## Tietojärjestelmän suunnittelu, harjoitustyö 2018
 
 Projektissa suunnittelen kuvitteelliselle älykkäitä jääkaappeja valmistavalle yritykselle tarvittavan tietojärjestelmän, ja jääkaapin käyttöliittymän rajatun prototyypin. Suunnitelmassa tarvittavan laitteiston, ja projektin aikataulutuksen osalta sai käyttää mielikuvitusta. Harjoitustyö on esimerkki "use case driven design":sta, eli järjestelmän suunnittelemisesta käyttötapausten pohjalta. 
 
