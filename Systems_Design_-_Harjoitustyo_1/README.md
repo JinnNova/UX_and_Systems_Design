@@ -16,7 +16,7 @@ Projektissa suunnittelen kuvitteelliselle älykkäitä jääkaappeja valmistaval
 
 ### Sisältö
 
-- Harjoitustyön tehtävänanto
+- [Harjoitustyön tehtävänanto](tehtavananto-2018.pdf) (Tiainen, Mäkiaho)
 - Valmis työni (pdf)
 - Esimerkkitietokannan luonti- ja tietojenlisäyslauseet
 - Esimerkkitietokantaan tehdyt kyselyt
