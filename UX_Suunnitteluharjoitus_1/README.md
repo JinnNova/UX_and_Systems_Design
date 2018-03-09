@@ -25,3 +25,10 @@ Suunnitteluharjoituksessa keskityn kehittämään Tampereen yliopiston Opiskelij
   <img title="Project example" src="readme/uighub1.png">  
   <img title="Project example" src="readme/uighub2.png">  
 </p>
+
+## Tämänhetkinen Opiskelijan työpöydän kalenteri
+Alla vertailun vuoksi rajattu kuva nykyisestä Opiskelijan työpöydästä, ja sen kalenterista.
+
+<p align="center">
+  <img title="Project example" src="readme/uighub3.png"> 
+</p>
