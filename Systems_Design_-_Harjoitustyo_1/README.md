@@ -8,17 +8,15 @@ Projektissa suunnittelen kuvitteelliselle älykkäitä jääkaappeja valmistaval
 
 - [Harjoitustyön tehtävänanto](tehtavananto-2018.pdf) (Tiainen, Mäkiaho)
 - [Valmis työni (pdf)](SuPe_HT_Hanna_Enqvist_FINAL_v2.pdf). Tiedosto on suuri (3.6MB), joten suosittelen lataamaan koneelle lukemisen helpottamiseksi.
- 
- 
-----
 
-### Kurssi
+
+## Kurssi
 
 - Tietojärjestelmien suunnittelun perusteet, 5 op
   - kevät 2018, Tampereen yliopisto
   - [Kurssin kuvaus](https://www10.uta.fi/opas/opintojakso.htm?id=30352&lang=fi&lvv=2017&uiLang=fi)
 
-### Esimerkkikuvia prototyypistä
+## Esimerkkikuvia prototyypistä
 Prototyyppi on nopea luonnos siitä, miltä jääkaapin käyttöliittymä voisi mahdollisesti näyttää. Lisää kuvia, sekä näyttösiirtymäkaavio työn pdf:ssä.
 
 <img align="center" title="Prototype example" src="readme/protosample.png">
