@@ -19,4 +19,7 @@ Projektissa suunnittelen kuvitteelliselle älykkäitä jääkaappeja valmistaval
 - Esimerkkitietokantaan tehdyt kyselyt
 
 
-## Käyttöliittymän prototyyppi
+### Esimerkkikuvia prototyypistä
+Prototyyppi on nopea luonnos siitä, miltä jääkaapin käyttöliittymä voisi mahdollisesti näyttää. Lisää kuvia, sekä näyttösiirtymäkaavio työn pdf:ssä.
+
+<img align="center" title="Prototype example" src="readme/protosample.png">
