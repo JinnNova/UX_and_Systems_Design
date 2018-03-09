@@ -15,7 +15,9 @@ Suunnitteluharjoituksessa keskityn kehittämään Tampereen yliopiston Opiskelij
 ## Sisältö
 
 - [Suunnitteluharjoituksen tehtävänanto](SH1_tehtavananto_2018.pdf) 
-- [Valmis työni (pdf)](SH1_Hanna_Enqvist-v13.pdf) Huom: GitHubin esikatselu sumentaa ja venyttää raportin kuvia. Jotta kuvat olisivat tarkkoja, suosittelen raportin tarkastelua 87,2% zoomilla esimerkiksi Adoben Acrobat readerilla.
+- [Valmis työni (pdf)](SH1_Hanna_Enqvist-v13.pdf) 
+
+> GitHubin esikatselu sumentaa ja venyttää raportin kuvia. Jotta kuvat olisivat tarkkoja, suosittelen raportin tarkastelua 87,2% zoomilla esimerkiksi Adoben Acrobat readerilla.
 
 ## Kuvia uudistetusta kalenterista
 
